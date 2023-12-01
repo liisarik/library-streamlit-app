@@ -39,7 +39,6 @@ def main():
         ('View Members', 'Manage Library Cards', 'Catalog of Books', 'Book Copies', 'Loans and Returns')
     )
 
-
     # Display data based on selected option
     if option == 'View Members':
         st.header('Library Members')
